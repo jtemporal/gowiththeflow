@@ -3,3 +3,5 @@ ipython==8.7.0
 flask==2.2.3
 flask-cors==3.0.10
 python-jose==3.3.0
+authlib==1.2.0
+requests==2.28.2
